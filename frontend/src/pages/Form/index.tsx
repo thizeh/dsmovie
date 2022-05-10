@@ -1,6 +1,6 @@
 function Form() {
 
-    return (<h1>Formulario</h1>)
+    return (<h1>Formulario #id</h1>)
 }
 
 export default Form;
